@@ -130,17 +130,5 @@ namespace CUPAR
             comboBox1.Visible = true; 
 
         }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void PantallaImportar_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        
     }
 }

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(PantallaImportar));
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.lblBodega = new System.Windows.Forms.Label();
             this.btnImportarDatos = new System.Windows.Forms.Button();
@@ -43,8 +44,10 @@
             // 
             // comboBox1
             // 
+            this.comboBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.comboBox1.ForeColor = System.Drawing.SystemColors.Control;
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(254, 149);
+            this.comboBox1.Location = new System.Drawing.Point(282, 144);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(217, 21);
             this.comboBox1.TabIndex = 0;
@@ -54,8 +57,10 @@
             // lblBodega
             // 
             this.lblBodega.AutoSize = true;
+            this.lblBodega.BackColor = System.Drawing.Color.Transparent;
             this.lblBodega.Font = new System.Drawing.Font("Lucida Console", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblBodega.Location = new System.Drawing.Point(251, 122);
+            this.lblBodega.ForeColor = System.Drawing.Color.White;
+            this.lblBodega.Location = new System.Drawing.Point(233, 122);
             this.lblBodega.Name = "lblBodega";
             this.lblBodega.Size = new System.Drawing.Size(306, 19);
             this.lblBodega.TabIndex = 2;
@@ -64,17 +69,21 @@
             // 
             // btnImportarDatos
             // 
-            this.btnImportarDatos.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.btnImportarDatos.Location = new System.Drawing.Point(273, 63);
+            this.btnImportarDatos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnImportarDatos.Cursor = System.Windows.Forms.Cursors.Default;
+            this.btnImportarDatos.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnImportarDatos.ForeColor = System.Drawing.Color.White;
+            this.btnImportarDatos.Location = new System.Drawing.Point(302, 202);
             this.btnImportarDatos.Name = "btnImportarDatos";
-            this.btnImportarDatos.Size = new System.Drawing.Size(237, 42);
+            this.btnImportarDatos.Size = new System.Drawing.Size(167, 42);
             this.btnImportarDatos.TabIndex = 3;
-            this.btnImportarDatos.Text = "Boton Importar Datos Vinos";
+            this.btnImportarDatos.Text = "Importar Datos Vinos";
             this.btnImportarDatos.UseVisualStyleBackColor = false;
             this.btnImportarDatos.Click += new System.EventHandler(this.btnImportarDatos_Click);
             // 
             // dtgBodegaSeleccionada
             // 
+            this.dtgBodegaSeleccionada.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.dtgBodegaSeleccionada.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dtgBodegaSeleccionada.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.aniada,
@@ -83,7 +92,7 @@
             this.varietal,
             this.maridaje,
             this.precio});
-            this.dtgBodegaSeleccionada.Location = new System.Drawing.Point(83, 200);
+            this.dtgBodegaSeleccionada.Location = new System.Drawing.Point(81, 200);
             this.dtgBodegaSeleccionada.Name = "dtgBodegaSeleccionada";
             this.dtgBodegaSeleccionada.Size = new System.Drawing.Size(643, 216);
             this.dtgBodegaSeleccionada.TabIndex = 4;
@@ -107,7 +116,7 @@
             // 
             this.varietal.HeaderText = "Varietal";
             this.varietal.Name = "varietal";
-            //
+            // 
             // maridaje
             // 
             this.maridaje.HeaderText = "Maridaje";
@@ -122,6 +131,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.dtgBodegaSeleccionada);
             this.Controls.Add(this.btnImportarDatos);
@@ -129,7 +140,6 @@
             this.Controls.Add(this.comboBox1);
             this.Name = "PantallaImportar";
             this.Text = "PantallaImportar";
-            this.Load += new System.EventHandler(this.PantallaImportar_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dtgBodegaSeleccionada)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
