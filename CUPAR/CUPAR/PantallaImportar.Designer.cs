@@ -47,7 +47,7 @@
             this.comboBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.comboBox1.ForeColor = System.Drawing.SystemColors.Control;
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(282, 144);
+            this.comboBox1.Location = new System.Drawing.Point(302, 127);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(217, 21);
             this.comboBox1.TabIndex = 0;
@@ -60,7 +60,7 @@
             this.lblBodega.BackColor = System.Drawing.Color.Transparent;
             this.lblBodega.Font = new System.Drawing.Font("Lucida Console", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblBodega.ForeColor = System.Drawing.Color.White;
-            this.lblBodega.Location = new System.Drawing.Point(233, 122);
+            this.lblBodega.Location = new System.Drawing.Point(255, 105);
             this.lblBodega.Name = "lblBodega";
             this.lblBodega.Size = new System.Drawing.Size(306, 19);
             this.lblBodega.TabIndex = 2;
@@ -138,6 +138,7 @@
             this.Controls.Add(this.btnImportarDatos);
             this.Controls.Add(this.lblBodega);
             this.Controls.Add(this.comboBox1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "PantallaImportar";
             this.Text = "PantallaImportar";
             ((System.ComponentModel.ISupportInitialize)(this.dtgBodegaSeleccionada)).EndInit();
