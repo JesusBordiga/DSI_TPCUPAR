@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\CUPAR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|C:\\Users\\Usuario\\Desktop\\CUPAR\\cupar\\gestor\\gestorimportarvinodebodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|solutionrelative:cupar\\gestor\\gestorimportarvinodebodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|C:\\Users\\Usuario\\Desktop\\CUPAR\\cupar\\pantallaimportar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|solutionrelative:cupar\\pantallaimportar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|c:\\users\\usuario\\desktop\\cupar\\cupar\\entidades\\probando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|solutionrelative:cupar\\entidades\\probando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|C:\\Users\\Usuario\\Desktop\\CUPAR\\cupar\\entidades\\bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|solutionrelative:cupar\\entidades\\bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|C:\\Users\\Usuario\\Desktop\\CUPAR\\cupar\\entidades\\vino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|solutionrelative:cupar\\entidades\\vino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|C:\\Users\\Usuario\\Desktop\\CUPAR\\cupar\\pantallaimportar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|solutionrelative:cupar\\pantallaimportar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|C:\\Users\\Usuario\\Desktop\\CUPAR\\cupar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|solutionrelative:cupar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|C:\\Users\\Usuario\\Desktop\\CUPAR\\cupar\\entidades\\maridaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|solutionrelative:cupar\\entidades\\maridaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|C:\\Users\\Usuario\\Desktop\\CUPAR\\cupar\\entidades\\siguiendo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|solutionrelative:cupar\\entidades\\siguiendo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|c:\\users\\usuario\\desktop\\cupar\\cupar\\entidades\\enofilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|solutionrelative:cupar\\entidades\\enofilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|C:\\Users\\Usuario\\Desktop\\CUPAR\\cupar\\repositorio\\repositorioenofilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|solutionrelative:cupar\\repositorio\\repositorioenofilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|C:\\Users\\Usuario\\Desktop\\CUPAR\\cupar\\entidades\\varietal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|solutionrelative:cupar\\entidades\\varietal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|C:\\Users\\Usuario\\Desktop\\CUPAR\\cupar\\entidades\\tipouva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|solutionrelative:cupar\\entidades\\tipouva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|C:\\Users\\Usuario\\Desktop\\CUPAR\\cupar\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1198F65B-F1BC-4B33-8739-454B2BB531BB}|CUPAR\\CUPAR.csproj|solutionrelative:cupar\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PantallaImportar.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\PantallaImportar.cs",
+              "RelativeDocumentMoniker": "CUPAR\\PantallaImportar.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\PantallaImportar.cs",
+              "RelativeToolTip": "CUPAR\\PantallaImportar.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAD4v0UAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "CUPAR",
+              "WhenOpened": "2024-05-28T18:15:27.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vino.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Entidades\\Vino.cs",
+              "RelativeDocumentMoniker": "CUPAR\\Entidades\\Vino.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Entidades\\Vino.cs",
+              "RelativeToolTip": "CUPAR\\Entidades\\Vino.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAiwH0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "CUPAR\\Entidades",
+              "WhenOpened": "2024-05-30T14:18:44.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestorImportarVinoDeBodega.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Gestor\\GestorImportarVinoDeBodega.cs",
+              "RelativeDocumentMoniker": "CUPAR\\Gestor\\GestorImportarVinoDeBodega.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Gestor\\GestorImportarVinoDeBodega.cs",
+              "RelativeToolTip": "CUPAR\\Gestor\\GestorImportarVinoDeBodega.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAswLYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "CUPAR\\Gestor",
+              "WhenOpened": "2024-05-28T18:06:21.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Probando.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Entidades\\Probando.cs",
+              "RelativeDocumentMoniker": "CUPAR\\Entidades\\Probando.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Entidades\\Probando.cs",
+              "RelativeToolTip": "CUPAR\\Entidades\\Probando.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:26:34.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PantallaImportar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\PantallaImportar.cs",
+              "RelativeDocumentMoniker": "CUPAR\\PantallaImportar.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\PantallaImportar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CUPAR\\PantallaImportar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:11:03.487Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bodega.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Entidades\\Bodega.cs",
+              "RelativeDocumentMoniker": "CUPAR\\Entidades\\Bodega.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Entidades\\Bodega.cs",
+              "RelativeToolTip": "CUPAR\\Entidades\\Bodega.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAAKIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:04:24.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Program.cs",
+              "RelativeDocumentMoniker": "CUPAR\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Program.cs",
+              "RelativeToolTip": "CUPAR\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:57:20.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Siguiendo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Entidades\\Siguiendo.cs",
+              "RelativeDocumentMoniker": "CUPAR\\Entidades\\Siguiendo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Entidades\\Siguiendo.cs",
+              "RelativeToolTip": "CUPAR\\Entidades\\Siguiendo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:17:16.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enofilo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Entidades\\Enofilo.cs",
+              "RelativeDocumentMoniker": "CUPAR\\Entidades\\Enofilo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Entidades\\Enofilo.cs",
+              "RelativeToolTip": "CUPAR\\Entidades\\Enofilo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:06:54.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Maridaje.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Entidades\\Maridaje.cs",
+              "RelativeDocumentMoniker": "CUPAR\\Entidades\\Maridaje.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Entidades\\Maridaje.cs",
+              "RelativeToolTip": "CUPAR\\Entidades\\Maridaje.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:08:18.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepositorioEnofilo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Repositorio\\RepositorioEnofilo.cs",
+              "RelativeDocumentMoniker": "CUPAR\\Repositorio\\RepositorioEnofilo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Repositorio\\RepositorioEnofilo.cs",
+              "RelativeToolTip": "CUPAR\\Repositorio\\RepositorioEnofilo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:13:01.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TipoUva.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Entidades\\TipoUva.cs",
+              "RelativeDocumentMoniker": "CUPAR\\Entidades\\TipoUva.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Entidades\\TipoUva.cs",
+              "RelativeToolTip": "CUPAR\\Entidades\\TipoUva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:27:08.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Varietal.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Entidades\\Varietal.cs",
+              "RelativeDocumentMoniker": "CUPAR\\Entidades\\Varietal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Entidades\\Varietal.cs",
+              "RelativeToolTip": "CUPAR\\Entidades\\Varietal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:27:02.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "CUPAR\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CUPAR\\CUPAR\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "CUPAR\\Entidades\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:27:11.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

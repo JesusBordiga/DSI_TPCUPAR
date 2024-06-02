@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\CUPAR\CUPAR\bin\Debug\CUPAR.exe.config
+C:\Users\Usuario\Desktop\CUPAR\CUPAR\bin\Debug\CUPAR.exe
+C:\Users\Usuario\Desktop\CUPAR\CUPAR\bin\Debug\CUPAR.pdb
+C:\Users\Usuario\Desktop\CUPAR\CUPAR\obj\Debug\CUPAR.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\CUPAR\CUPAR\obj\Debug\CUPAR.Properties.Resources.resources
+C:\Users\Usuario\Desktop\CUPAR\CUPAR\obj\Debug\CUPAR.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\CUPAR\CUPAR\obj\Debug\CUPAR.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CUPAR\CUPAR\obj\Debug\CUPAR.exe
+C:\Users\Usuario\Desktop\CUPAR\CUPAR\obj\Debug\CUPAR.pdb
+C:\Users\Usuario\Desktop\CUPAR\CUPAR\obj\Debug\CUPAR.PantallaImportar.resources
